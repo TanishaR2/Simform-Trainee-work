@@ -1,5 +1,3 @@
-
-
 # 1. Introduction to List Comprehension
 # Basic list comprehension to square numbers
 square_numbers = [x**2 for x in range(10)]
