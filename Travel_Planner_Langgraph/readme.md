@@ -88,9 +88,9 @@ python graph_runner.py
 
 ## 🧪 Example Queries
 
-- "Plan me a 5-day itinerary for Bali"
-- "Suggest fun activities for a couple trip to Goa"
-- "What's the estimated budget for a 3-day trip to Manali?"
+- "Plan me a 5-day itinerary for Bali with family"
+- "Suggest fun activities for a couple trip to Goa for 3 days"
+- "What's the estimated budget for a 3-day trip to Manali with friends from ahmedabad?"
 
 ---
 
